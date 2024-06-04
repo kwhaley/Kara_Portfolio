@@ -21,25 +21,25 @@ platforms:
 
 
 navigation:
-  - name: About
-    link: ./about.html
-  - name: Projects
-    link: ./projects.html
+  - name: About Me
+    link: ./index.html#about-me
+  - name: Projects Overview
+    link: ./index.html#projects-overview
     sublist:
       - name: Data Automation
-        link: ./projects/data-automation.html
+        link: ./index.html#data-automation
       - name: CMS Migration
-        link: ./projects/cms-migration.html
+        link: ./index.html#cms-migration
       - name: Tracking System
-        link: ./projects/tracking-system.html
+        link: ./index.html#tracking-system
       - name: Payroll System
-        link: ./projects/payroll-system.html
+        link: ./index.html#payroll-system
       - name: E-comm Website
-        link: ./projects/ecomm-website.html
+        link: ./index.html#ecomm-website
   - name: Case Studies
     link: ./case-studies.html
     sublist:
+      - name: Volunteer Reservation System
+        link: ./case-studies/volunteer-reservation-brownhoist.html
       - name: Data Automation
-        link: ./case-studies/data-automation.html
-      - name: CMS Migration
-        link: ./case-studies/cms-migration.html
+        link: ./case-studies/data-automation-reading-room.html
