@@ -46,52 +46,7 @@ Gathered requirements from various stakeholders and analyzed existing manual pro
     - **Post-launch Feedback:** Incorporated user feedback for continuous improvement.
 
 ### Flow Chart
-
-
-```mermaid
-graph TD
-    A[Data Collection] --> B[Volunteer Sign-Up and Notifications]
-    B --> C[Stakeholder Feedback]
-    C --> D[Shift Management]
-    C --> E[Site Development]
-    E --> F[Membership Sign-Up Process]
-    E --> G[Reservation System]
-    D --> H[Launch]
-    F --> H
-    G --> H
-    H --> I[Bug Fixing and Refinement]
-    H --> J[Component Integration]
-    I --> K[Post-launch Feedback]
-    J --> K
-    K --> L[Continuous Improvement]
-
-    subgraph Challenges and Solutions
-        M[Manual Process Replacement] --> N[User Engagement]
-        N --> O[Technical Hurdles]
-    end
-
-    L --> P[Ongoing Improvements]
-    L --> Q[Expand Functionality]
-
-    classDef step fill:#0b5394,stroke:#333,stroke-width:1px,fontColor:#fff;
-    class A,B,C,D,E,F,G,H,I,J,K,L,P,Q step;
-
-    classDef challenge fill:#1F1E33,stroke:#333,stroke-width:1px,fontColor:#fff;
-    class M,N,O challenge;
-
-    click A callback "Data Collection: Gathered requirements from stakeholders and analyzed existing manual processes."
-    click B callback "Volunteer Sign-Up and Notifications: Developed and implemented the system over 3 weeks."
-    click C callback "Stakeholder Feedback: Collected initial feedback and adjusted the system accordingly."
-    click D callback "Shift Management: Implemented automated shift management in 2 weeks."
-    click E callback "Site Development: Migrated content, set up WordPress site, and created membership sign-up and reservation systems."
-    click H callback "Launch: Site went live on January 1st, followed by a 1-month period of bug fixing and refinement."
-    click K callback "Post-launch Feedback: Incorporated user feedback for continuous improvement."
-    click M callback "Manual Process Replacement: Successfully transitioned from manual to automated processes."
-    click N callback "User Engagement: Increased volunteer participation through automated reminders and easy sign-up processes."
-    click O callback "Technical Hurdles: Overcame challenges such as integrating various systems and ensuring real-time updates."
-
-```
-
+![Volunteer and Reservation System](https://www.mermaidchart.com/raw/47e8651d-f976-4853-bc8c-3d39717d3029?theme=light&version=v0.1&format=svg)
 
 
 ---
