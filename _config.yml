@@ -1,8 +1,6 @@
 title: Kara Kraus
 # logo:
-description: Automation
-show_downloads: true
-# theme: jekyll-theme-minimal
+show_downloads: false
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 
 
@@ -22,7 +20,7 @@ platforms:
 
 navigation:
   - name: About Me
-    link: /Kara_Portfolio/index.html#about-me
+    link: /portfolio/index.html#about-me
   
   - name: Projects
     # link: /portfolio/index.html#projects-overview
