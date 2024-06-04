@@ -5,7 +5,7 @@ I am Kara Kraus, a Senior Technical Project Manager and UX Design Specialist wit
 
 ## <a name="projects-overview"></a>Projects Overview
 
-### <a name="data-automation"></a>Project: Data Automation and Operational Efficiency for The Reading Room CLE
+### <a name="data-automation"></a>Data Automation and Operational Efficiency for The Reading Room CLE
 **Date:** 2024 
 **Role:** Operations Director  
 **Technologies Used:** Google Sheets, Google Apps Script, Excel  
@@ -13,7 +13,7 @@ I am Kara Kraus, a Senior Technical Project Manager and UX Design Specialist wit
 **Key Achievements:** Automated financial reports, reducing manual data entry time by 80%.  
 **[Read Full Case Study](case-studies/data-automation-reading-room.md)**
 
-### <a name="auto-volunteer"></a>### Project: Comprehensive Volunteer and Reservation System for The Brownhoist
+### <a name="auto-volunteer"></a>Comprehensive Volunteer and Reservation System for The Brownhoist
 **Date:** 2024  
 **Role:** Automation System Developer  
 **Technologies Used:** Google Apps Script, HTML, CSS, JavaScript, Google Forms  
@@ -21,35 +21,35 @@ I am Kara Kraus, a Senior Technical Project Manager and UX Design Specialist wit
 **Key Achievements:** Enabled self-sign-up for volunteers, automated reminders, real-time tracking.  
 **[Read Full Case Study](case-studies/volunteer-reservation-brownhoist.md)**
 
-### <a name="cms-migration"></a>Project: CMS Migration at NEO University
+### <a name="cms-migration"></a>CMS Migration at NEO University
 **Date:** 2023  
 **Role:** Project Manager and UX Designer  
 **Technologies Used:** HTML, CSS, JavaScript, PHP, Cascade CMS  
 **Outcome:** Improved website usability by 30% and user engagement by 20%.  
 **Key Achievements:** Streamlined content migration process, reduced project timeline by 25%.
 
-### <a name="tracking-system"></a>Project: Writing Contest Tracking System for The Reading Room CLE
+### <a name="tracking-system"></a>Writing Contest Tracking System for The Reading Room CLE
 **Date:** 2022  
 **Role:** Operations Director  
 **Technologies Used:** Google Sheets, Google Apps Script, Google Forms  
 **Outcome:** Reduced manual data entry and updates.  
 **Key Achievements:** Implemented an automated system, improved data accuracy and timeliness.
 
-### <a name="payroll-system"></a>Project: Payroll Request System for The Reading Room CLE
+### <a name="payroll-system"></a>Payroll Request System for The Reading Room CLE
 **Date:** 2021  
 **Role:** Operations Director  
 **Technologies Used:** Google Sheets, Google Apps Script  
 **Outcome:** Streamlined payroll process, ensured accurate payments.  
 **Key Achievements:** Created an automated system, reduced payroll processing time by 70%.
 
-### <a name="ecomm-website"></a>Project: E-commerce Website for Local Coffee Shop
+### <a name="ecomm-website"></a>E-commerce Website for Local Coffee Shop
 **Date:** 2020  
 **Role:** Lead Developer and UX Designer  
 **Technologies Used:** HTML, CSS, JavaScript, PHP, React, WordPress  
 **Outcome:** Increased online sales by 50%.  
 **Key Achievements:** Designed intuitive UI, integrated payment gateways, ensured ADA compliance.
 
-## Skills and Tools
+### <a name="skills"></a>## Skills and Tools
 - **Automation:** Google Apps Script
 - **Product Management:** Atlassian Jira, Workday, Trello, Asana
 - **UX Research and User-Centered Design:** Axe, Qualtrics, CrazyEgg, HotJar
