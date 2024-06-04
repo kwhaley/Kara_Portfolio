@@ -50,3 +50,9 @@ navigation:
     link: /portfolio/index.html#skills
   - name: Testimonials
     link: /portfolio/index.html#testimonials
+
+  - name: Contact
+    link: /portfolio/index.html#contact
+
+  - name: Resume
+    link: /portfolio/index.html#resume
