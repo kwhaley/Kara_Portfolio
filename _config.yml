@@ -46,6 +46,6 @@ navigation:
       - name: Data Automation
         link: /Kara_Portfolio/case-studies/data-automation-reading-room.html
   - name: Skills & Tools
-      link: /Kara_Portfolio/index.html#skills
+        link: /Kara_Portfolio/index.html#skills
   - name: Testimonials
-    link: /Kara_Portfolio/index.html#testimonials
+        link: /Kara_Portfolio/index.html#testimonials
