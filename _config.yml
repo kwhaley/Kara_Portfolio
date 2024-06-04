@@ -23,8 +23,13 @@ platforms:
 navigation:
   - name: About Me
     link: /Kara_Portfolio/index.html#about-me
-  - name: Projects Overview
-    link: /portfolio/index.html#projects-overview
+  - name: Skills & Tools
+    link: /portfolio/index.html#skills
+  - name: Testimonials
+    link: /portfolio/index.html#testimonials
+  
+  - name: Projects
+    # link: /portfolio/index.html#projects-overview
     sublist:
       - name: Data Automation
         link: /portfolio/index.html#data-automation
@@ -45,7 +50,8 @@ navigation:
         link: /portfolio/case-studies/volunteer-reservation-brownhoist.html
       - name: Data Automation
         link: /portfolio/case-studies/data-automation-reading-room.html
+
   - name: Skills & Tools
-        link: /portfolio/index.html#skills
+    link: /portfolio/index.html#skills
   - name: Testimonials
-        link: /portfolio/index.html#testimonials
+    link: /portfolio/index.html#testimonials
