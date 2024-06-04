@@ -22,24 +22,24 @@ platforms:
 
 navigation:
   - name: About Me
-    link: /index.html#about-me
+    link: /Kara_Portfolio/index.html#about-me
   - name: Projects Overview
-    link: ./index.html#projects-overview
+    link: /Kara_Portfolio/index.html#projects-overview
     sublist:
       - name: Data Automation
-        link: ./index.html#data-automation
+        link: /Kara_Portfolio/index.html#data-automation
       - name: CMS Migration
-        link: ./index.html#cms-migration
+        link: /Kara_Portfolio/index.html#cms-migration
       - name: Tracking System
-        link: ./index.html#tracking-system
+        link: /Kara_Portfolio/index.html#tracking-system
       - name: Payroll System
-        link: ./index.html#payroll-system
+        link: /Kara_Portfolio/index.html#payroll-system
       - name: E-comm Website
-        link: ./index.html#ecomm-website
+        link: /Kara_Portfolio/index.html#ecomm-website
   - name: Case Studies
     # link: #
     sublist:
       - name: Volunteer Reservation System
-        link: ./case-studies/volunteer-reservation-brownhoist.html
+        link: /Kara_Portfolio/case-studies/volunteer-reservation-brownhoist.html
       - name: Data Automation
         link: /Kara_Portfolio/case-studies/data-automation-reading-room.html
