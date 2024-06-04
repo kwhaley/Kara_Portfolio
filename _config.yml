@@ -40,6 +40,6 @@ navigation:
     # link: #
     sublist:
       - name: Volunteer Reservation System
-        link: ./volunteer-reservation-brownhoist.html
+        link: /case-studies/volunteer-reservation-brownhoist.html
       - name: Data Automation
-        link: ./data-automation-reading-room.html
+        link: /case-studies/data-automation-reading-room.html
