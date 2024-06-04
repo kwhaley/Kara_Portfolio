@@ -50,20 +50,26 @@ I am Kara Kraus, a Senior Technical Project Manager and UX Design Specialist wit
 ### <a name="skills"></a>Skills and Tools  
 - **Automation:** Google Apps Script  
 - **Product Management:** Atlassian Jira, Workday, Trello, Asana  
-- **UX Research and User-Centered Design:** Axe, Qualtrics, CrazyEgg, HotJar  
+- **UX Research and User-Centered Design:** Axe, Qualtrics, CrazyEgg, HotJar
+- **UI Design & Rapid Prototyping:** Figma 
 - **Front-End Development:** HTML, CSS, JavaScript, PHP, React, WordPress  
 - **Data Analysis and Visualization:** Python, R, SQL, Looker Studio, Tableau, Power BI  
-- **QA Testing and Continuous Process Improvement**  
-- **Version Control:** Git, GitHub  
 - **Content Management Systems:** Cascade CMS, WordPress  
-- **Adobe Creative Suite:** InDesign, Photoshop, Illustrator  
+- **Creative:** InDesign, Photoshop, Illustrator, Canva  
+- **QA Testing and Continuous Process Improvement**  
+- **Additional Skills:**Budget Management, Cross-Departmental Coordination, Grant
+Writing and Reporting, Information Architecture, Technical Project Management
 
 ### <a name="testimonials"></a>Testimonials  
 
 > **Kara is one of those unicorn people who can just handle whatever situation you present her with. She started at the shop as a volunteer, based on her Wordpress background, and is now our director of operations; she recently solved our unsolvable profit margin problem. She is basically magical and I would recommend her for any job; I paid her (over her vociferous protests) out of my own pocket when the shop was cash-strapped and I would do it again in a heartbeat. Her work is invaluable and her demeanor, presence, and general vibe are really just priceless; she has the ability to be ruthlessly practical and steadfastly optimistic at the same time. She also has unimpeachable ethics and a gift of moral insight and clarity that is truly rare.** 
 > 
 > – Quinn, The Reading Room CLE  
-
+  
+> **
+ I worked with Kara on the board of YNPN Cleveland. She brought so much value to our team by creating a way to manage our data, helping us to streamline processes, managed our surveys and better utilize our website platform, Nationbuilder. In addition, she created an extensive annual survey to poll our members and eloquently organized the results in a way that was easy to read and understand. Kara is creative, motivated and goes above and beyond without being asked. I always knew I could count on Kara to see a project through promptly, while thinking outside the box and presenting possible solutions. In addition, Kara is very organized and knows how to present her work in a clean and professional manner. Kara is a great team player and I highly recommend working with her! 
+> 
+> – Rebecca, YNPN Cleveland 
 
 ### <a name="contact"></a>Contact  
 Get in touch with me at [whaleykara@gmail.com](mailto:whaleykara@gmail.com). You can also find me on [GitHub](https://github.com/kwhaley) and [LinkedIn](https://www.linkedin.com/in/karawhaley/).
