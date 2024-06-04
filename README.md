@@ -1,5 +1,3 @@
-# Kara_Portfolio
-
 ## <a name="about-me"></a>About Me
 I am Kara Kraus, a Senior Technical Project Manager and UX Design Specialist with over 11 years of experience in web development, UX research, and digital project management. Explore my projects and learn more about my skills and experience.
 
@@ -49,7 +47,7 @@ I am Kara Kraus, a Senior Technical Project Manager and UX Design Specialist wit
 **Outcome:** Increased online sales by 50%.  
 **Key Achievements:** Designed intuitive UI, integrated payment gateways, ensured ADA compliance.
 
-### <a name="skills"></a>## Skills and Tools
+### <a name="skills"></a>Skills and Tools
 - **Automation:** Google Apps Script
 - **Product Management:** Atlassian Jira, Workday, Trello, Asana
 - **UX Research and User-Centered Design:** Axe, Qualtrics, CrazyEgg, HotJar
