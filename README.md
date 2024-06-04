@@ -1,11 +1,11 @@
 # Kara_Portfolio
 
-## About Me
+## <a name="about-me"></a>About Me
 I am Kara Kraus, a Senior Technical Project Manager and UX Design Specialist with over 11 years of experience in web development, UX research, and digital project management. Explore my projects and learn more about my skills and experience.
 
-## Projects Overview
+## <a name="projects-overview"></a>Projects Overview
 
-### Project: Data Automation and Operational Efficiency for The Reading Room CLE
+### <a name="data-automation"></a>Project: Data Automation and Operational Efficiency for The Reading Room CLE
 **Date:** 2024 
 **Role:** Operations Director  
 **Technologies Used:** Google Sheets, Google Apps Script, Excel  
@@ -13,7 +13,7 @@ I am Kara Kraus, a Senior Technical Project Manager and UX Design Specialist wit
 **Key Achievements:** Automated financial reports, reducing manual data entry time by 80%.  
 **[Read Full Case Study](case-studies/data-automation-reading-room.md)**
 
-### Project: Comprehensive Volunteer and Reservation System for The Brownhoist
+### <a name="auto-volunteer"></a>### Project: Comprehensive Volunteer and Reservation System for The Brownhoist
 **Date:** 2024  
 **Role:** Automation System Developer  
 **Technologies Used:** Google Apps Script, HTML, CSS, JavaScript, Google Forms  
@@ -21,28 +21,28 @@ I am Kara Kraus, a Senior Technical Project Manager and UX Design Specialist wit
 **Key Achievements:** Enabled self-sign-up for volunteers, automated reminders, real-time tracking.  
 **[Read Full Case Study](case-studies/volunteer-reservation-brownhoist.md)**
 
-### Project: CMS Migration at NEO University
+### <a name="cms-migration"></a>Project: CMS Migration at NEO University
 **Date:** 2023  
 **Role:** Project Manager and UX Designer  
 **Technologies Used:** HTML, CSS, JavaScript, PHP, Cascade CMS  
 **Outcome:** Improved website usability by 30% and user engagement by 20%.  
 **Key Achievements:** Streamlined content migration process, reduced project timeline by 25%.
 
-### Project: Writing Contest Tracking System for The Reading Room CLE
+### <a name="tracking-system"></a>Project: Writing Contest Tracking System for The Reading Room CLE
 **Date:** 2022  
 **Role:** Operations Director  
 **Technologies Used:** Google Sheets, Google Apps Script, Google Forms  
 **Outcome:** Reduced manual data entry and updates.  
 **Key Achievements:** Implemented an automated system, improved data accuracy and timeliness.
 
-### Project: Payroll Request System for The Reading Room CLE
+### <a name="payroll-system"></a>Project: Payroll Request System for The Reading Room CLE
 **Date:** 2021  
 **Role:** Operations Director  
 **Technologies Used:** Google Sheets, Google Apps Script  
 **Outcome:** Streamlined payroll process, ensured accurate payments.  
 **Key Achievements:** Created an automated system, reduced payroll processing time by 70%.
 
-### Project: E-commerce Website for Local Coffee Shop
+### <a name="ecomm-website"></a>Project: E-commerce Website for Local Coffee Shop
 **Date:** 2020  
 **Role:** Lead Developer and UX Designer  
 **Technologies Used:** HTML, CSS, JavaScript, PHP, React, WordPress  
@@ -60,7 +60,7 @@ I am Kara Kraus, a Senior Technical Project Manager and UX Design Specialist wit
 - **Content Management Systems:** Cascade CMS, WordPress
 - **Adobe Creative Suite:** InDesign, Photoshop, Illustrator
 
-## Testimonials
+### <a name="testimonials"></a>Testimonials
 
 > **Kara is one of those unicorn people who can just handle whatever situation you present her with. She started at the shop as a volunteer, based on her Wordpress background, and is now our director of operations; she recently solved our unsolvable profit margin problem. She is basically magical and I would recommend her for any job; I paid her (over her vociferous protests) out of my own pocket when the shop was cash-strapped and I would do it again in a heartbeat. Her work is invaluable and her demeanor, presence, and general vibe are really just priceless; she has the ability to be ruthlessly practical and steadfastly optimistic at the same time. She also has unimpeachable ethics and a gift of moral insight and clarity that is truly rare.** 
 > 
