@@ -14,10 +14,10 @@ plugins:
 platforms:
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
-    link: https://github.com/vaibhavvikas
+    link: https://github.com/kwhaley
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
-    link: https://www.linkedin.com/in/vaibhavvikas
+    link: https://www.linkedin.com/in/kwhaley
 
 
 navigation:
@@ -37,7 +37,7 @@ navigation:
       - name: E-comm Website
         link: ./index.html#ecomm-website
   - name: Case Studies
-    link: ./case-studies.html
+    link: #
     sublist:
       - name: Volunteer Reservation System
         link: ./case-studies/volunteer-reservation-brownhoist.html
