@@ -22,7 +22,7 @@ platforms:
 
 navigation:
   - name: About Me
-    link: ./index.html#about-me
+    link: /index.html#about-me
   - name: Projects Overview
     link: ./index.html#projects-overview
     sublist:
@@ -40,6 +40,6 @@ navigation:
     # link: #
     sublist:
       - name: Volunteer Reservation System
-        link: /case-studies/volunteer-reservation-brownhoist.html
+        link: ./case-studies/volunteer-reservation-brownhoist.html
       - name: Data Automation
-        link: /case-studies/data-automation-reading-room.html
+        link: /Kara_Portfolio/case-studies/data-automation-reading-room.html
