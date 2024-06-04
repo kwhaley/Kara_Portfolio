@@ -37,7 +37,7 @@ navigation:
       - name: E-comm Website
         link: ./index.html#ecomm-website
   - name: Case Studies
-    link: #
+    # link: #
     sublist:
       - name: Volunteer Reservation System
         link: ./volunteer-reservation-brownhoist.html
