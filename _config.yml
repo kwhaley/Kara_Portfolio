@@ -23,10 +23,6 @@ platforms:
 navigation:
   - name: About Me
     link: /Kara_Portfolio/index.html#about-me
-  - name: Skills & Tools
-    link: /portfolio/index.html#skills
-  - name: Testimonials
-    link: /portfolio/index.html#testimonials
   
   - name: Projects
     # link: /portfolio/index.html#projects-overview
