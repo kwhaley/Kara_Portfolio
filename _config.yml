@@ -18,12 +18,32 @@ platforms:
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
     link: https://www.linkedin.com/in/vaibhavvikas
+title: Your Portfolio Title
+author: Your Name
+description: Your Description
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://your-username.github.io" # the base hostname & protocol for your site
 
 navigation:
-  - name: Readme
-    link: ./index.html
+  - name: About
+    link: ./about.html
+  - name: Projects
+    link: ./projects.html
     sublist:
-      - name: Image
-        link: ./index.html#small-image
-  - name: Another Page
-    link: ./another-page.html
+      - name: Data Automation
+        link: ./projects/data-automation.html
+      - name: CMS Migration
+        link: ./projects/cms-migration.html
+      - name: Tracking System
+        link: ./projects/tracking-system.html
+      - name: Payroll System
+        link: ./projects/payroll-system.html
+      - name: E-comm Website
+        link: ./projects/ecomm-website.html
+  - name: Case Studies
+    link: ./case-studies.html
+    sublist:
+      - name: Data Automation
+        link: ./case-studies/data-automation.html
+      - name: CMS Migration
+        link: ./case-studies/cms-migration.html
