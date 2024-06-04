@@ -65,5 +65,5 @@ I am Kara Kraus, a Senior Technical Project Manager and UX Design Specialist wit
 > – Quinn, The Reading Room CLE  
 
 
-## Contact  
+### <a name="contact"></a>Contact  
 Get in touch with me at [whaleykara@gmail.com](mailto:whaleykara@gmail.com). You can also find me on [GitHub](https://github.com/kwhaley) and [LinkedIn](https://www.linkedin.com/in/karawhaley/).
