@@ -28,6 +28,8 @@ navigation:
     sublist:
       - name: Data Automation
         link: /Kara_Portfolio/index.html#data-automation
+      - name: Volunteer System
+        link: /Kara_Portfolio/index.html#auto-volunteer
       - name: CMS Migration
         link: /Kara_Portfolio/index.html#cms-migration
       - name: Tracking System
@@ -43,3 +45,7 @@ navigation:
         link: /Kara_Portfolio/case-studies/volunteer-reservation-brownhoist.html
       - name: Data Automation
         link: /Kara_Portfolio/case-studies/data-automation-reading-room.html
+  - name: Skills & Tools
+      link: /Kara_Portfolio/index.html#skills
+  - name: Testimonials
+    link: /Kara_Portfolio/index.html#testimonials
