@@ -55,5 +55,5 @@ navigation:
     link: /portfolio/index.html#contact
 
   - name: Resume
-    link: /portfolio/pdfs/Kara Kraus 2024.pdf
+    link: <a href="https://kwhaley.github.io/pdfs/Kara Kraus 2024.pdf" target="_blank">PDF.</a>
     
